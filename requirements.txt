@@ -1,0 +1,14 @@
+setuptools
+wheel
+Sqlalchemy
+mysqlclient
+PyJWT
+bcrypt
+cryptography
+gunicorn
+uvicorn
+fastapi
+python-multipart
+requests
+pytest
+ulid-py

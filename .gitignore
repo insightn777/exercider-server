@@ -1,3 +1,18 @@
+.DS_Store
+*.pyc
+*.pyo
+*.whoosh
+*.db
+*.log
+env
+.idea
+log
+db
+data
+test/data
+
+gunicorn.conf.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
